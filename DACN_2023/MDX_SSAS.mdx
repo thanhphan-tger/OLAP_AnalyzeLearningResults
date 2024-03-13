@@ -1,0 +1,55 @@
+﻿--Điểm trung bình các học kỳ của 1 sinh viên
+WITH
+    MEMBER [Measures].[DiemTB] AS
+        IIF(
+            [Measures].[Fact Ket Qua Count] = 0,
+            NULL,
+            ROUND([Measures].[Diem Tong Ket] / [Measures].[Fact Ket Qua Count], 2)
+        )
+
+SELECT
+{
+    [Measures].[DiemTB]
+} ON COLUMNS,
+FILTER(
+    CROSSJOIN(
+        {[Dim Hoc Ky].[Ma Hoc Ky].[All].Children},
+        FILTER(
+            [Dim Sinh Vien].[MSSV].[MSSV].Members,
+            [Dim Sinh Vien].[MSSV].CurrentMember IS [Dim Sinh Vien].[MSSV].&[2001200004]
+        )
+    ),
+    NOT ISEMPTY([Measures].[DiemTB]) // Lọc các hàng có DiemTB khác NULL
+) ON ROWS
+FROM
+    [Snowflake Schema SV]
+
+
+--Điểm trung bình học kỳ 1 niên khóa 2020-2021 của các sinh viên
+WITH
+    MEMBER [Measures].[DiemTB_HK1_2020_2021] AS
+        IIF(
+            [Measures].[Fact Ket Qua Count] = 0,
+            NULL,
+            ROUND([Measures].[Diem Tong Ket] / [Measures].[Fact Ket Qua Count], 2)
+        )
+
+SET NonEmptySet AS
+    FILTER(
+        [Dim Sinh Vien].[Ho].[Ho].Members * 
+        [Dim Sinh Vien].[Ten].[Ten].Members *
+        [Dim Sinh Vien].[MSSV].[MSSV].Members,
+        NOT IsEmpty([Measures].[DiemTB_HK1_2020_2021])
+    )
+
+SELECT
+{
+    [Measures].[DiemTB_HK1_2020_2021]
+} ON COLUMNS,
+NonEmptySet ON ROWS
+FROM [Snowflake Schema SV]
+WHERE (
+    [Dim Hoc Ky].[Ten Nien Khoa].[Ten Nien Khoa].&[2020-2021],
+    [Dim Hoc Ky].[Ma Hoc Ky].&[HK1]
+)
+

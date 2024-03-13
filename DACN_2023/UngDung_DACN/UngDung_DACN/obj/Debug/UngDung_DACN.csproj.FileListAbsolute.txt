@@ -1,0 +1,240 @@
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\UngDung_DACN.exe.config
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\UngDung_DACN.exe
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\UngDung_DACN.pdb
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.Identity.Client.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\System.Buffers.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\System.Memory.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\System.Numerics.Vectors.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.AdomdClient.xml
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.Identity.Client.xml
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\System.Buffers.xml
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\System.Memory.xml
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\System.Numerics.Vectors.xml
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\zh-Hans\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\zh-Hant\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.AssemblyReference.cache
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_DangNhap.resources
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Properties.Resources.resources
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.GenerateResource.cache
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.CoreCompileInputs.cache
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.CopyComplete
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.exe
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.pdb
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_TrangChu.resources
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.SuggestedBindingRedirects.cache
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.exe.config
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_BaoCao.resources
+F:\Đồ Án Chuyên Ngành\Data\Đò Án\Đò Án\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_PhanTich.resources
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\UngDung_DACN.exe.config
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\UngDung_DACN.exe
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\UngDung_DACN.pdb
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.Identity.Client.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Buffers.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Memory.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Numerics.Vectors.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.AdomdClient.xml
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.Identity.Client.xml
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Buffers.xml
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Memory.xml
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Numerics.Vectors.xml
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\zh-Hans\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\zh-Hant\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.AssemblyReference.cache
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.SuggestedBindingRedirects.cache
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.exe.config
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_BaoCao.resources
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_DangNhap.resources
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_PhanTich.resources
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_TrangChu.resources
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Properties.Resources.resources
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.GenerateResource.cache
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.CoreCompileInputs.cache
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.CopyComplete
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.exe
+F:\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.pdb
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\UngDung_DACN.exe.config
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\UngDung_DACN.exe
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\UngDung_DACN.pdb
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.Identity.Client.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Buffers.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Memory.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Numerics.Vectors.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.AdomdClient.xml
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.AnalysisServices.SPClient.Interfaces.xml
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.Identity.Client.xml
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Buffers.xml
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Memory.xml
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Numerics.Vectors.xml
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ar\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\bg\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ca\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\cs\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\da\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\de\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\el\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\es\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\et\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\eu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\fi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\fr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\gl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\he\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\hi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\hr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\hu\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\id\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\it\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ja\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\kk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ko\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\lt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\lv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ms\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\nl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\no\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\pl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\pt\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\pt-PT\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ro\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\ru\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\sk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\sl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\sr-Cyrl\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\sr-Latn\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\sv\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\th\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\tr\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\uk\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\vi\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\zh-Hans\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\bin\Debug\zh-Hant\Microsoft.AnalysisServices.AdomdClient.resources.dll
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.AssemblyReference.cache
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.SuggestedBindingRedirects.cache
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.exe.config
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_BaoCao.resources
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_DangNhap.resources
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_PhanTich.resources
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Form_TrangChu.resources
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.Properties.Resources.resources
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.GenerateResource.cache
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.CoreCompileInputs.cache
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.csproj.CopyComplete
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.exe
+F:\DACN_2023\DACN_2023\UngDung_DACN\UngDung_DACN\obj\Debug\UngDung_DACN.pdb
